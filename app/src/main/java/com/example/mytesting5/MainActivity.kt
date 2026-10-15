@@ -67,7 +67,7 @@ fun BiodataScreen() {
                 contentScale = ContentScale.Crop
             )
 
-            // 2. Komponen Box yang Mengapung di atas Scaffold/Background
+            // 2. Komponen Box yang Mengapung di atas Scaffold/Background komponen box
             Box(
                 modifier = Modifier
                     .fillMaxWidth()
