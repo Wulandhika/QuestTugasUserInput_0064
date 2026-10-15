@@ -1,5 +1,5 @@
 package com.example.mytesting5
-
+// import
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -228,4 +228,4 @@ fun BiodataScreen() {
 // comit 1
 // comit 2
 // comit 3
-// Aplikasi
+// Aplikasi Android
