@@ -171,7 +171,7 @@ fun BiodataScreen() {
 
                     Spacer(modifier = Modifier.height(16.dp))
 
-                    // Label Pilih Skill
+                    // Label Pilih Skill chose
                     Text(
                         text = stringResource(id = R.string.label_pilih_skill),
                         modifier = Modifier.fillMaxWidth(),
