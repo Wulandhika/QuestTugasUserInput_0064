@@ -229,4 +229,4 @@ fun BiodataScreen() {
 // comit 1
 // comit 2
 // comit 3
-// Aplikasi Android
+// Aplikasi Android alhamdulillah tidak error
