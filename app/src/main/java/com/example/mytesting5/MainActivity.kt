@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//composable option
+//composable option biodatascreen
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun BiodataScreen() {
