@@ -102,7 +102,7 @@ fun BiodataScreen() {
 
                     Spacer(modifier = Modifier.height(20.dp))
 
-                    // Row untuk Nama Depan & Nama Belakang
+                    // Row untuk Nama Depan & Nama Belakang berbagai row
                     Row(
                         modifier = Modifier.fillMaxWidth(),
                         horizontalArrangement = Arrangement.spacedBy(8.dp)
