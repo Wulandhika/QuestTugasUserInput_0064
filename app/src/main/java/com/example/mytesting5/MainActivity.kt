@@ -83,7 +83,7 @@ fun BiodataScreen() {
                         .verticalScroll(rememberScrollState()),
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
-                    // Judul Form
+                    // Judul Form teks dan lainnya
                     Text(
                         text = stringResource(id = R.string.form_title),
                         fontSize = 28.sp,
