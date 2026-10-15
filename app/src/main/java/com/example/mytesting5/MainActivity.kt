@@ -1,5 +1,5 @@
 package com.example.mytesting5
-// import androit studio
+// import studiondroit
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
