@@ -125,7 +125,7 @@ fun BiodataScreen() {
 
                     Spacer(modifier = Modifier.height(12.dp))
 
-                    // Field Email
+                    // Field Email tempat email
                     OutlinedTextField(
                         value = email,
                         onValueChange = { email = it },
