@@ -93,7 +93,7 @@ fun BiodataScreen() {
 
                     Spacer(modifier = Modifier.height(4.dp))
 
-                    // Subtitle
+                    // Subtitle berbagai teks
                     Text(
                         text = stringResource(id = R.string.form_subtitle),
                         fontSize = 12.sp,
