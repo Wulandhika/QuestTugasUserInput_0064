@@ -181,7 +181,7 @@ fun BiodataScreen() {
 
                     Spacer(modifier = Modifier.height(8.dp))
 
-                    // Checkbox Pilihan Skill
+                    // Checkbox Pilihan Skill untuk checkbox
                     Row(
                         modifier = Modifier.fillMaxWidth(),
                         horizontalArrangement = Arrangement.SpaceBetween,
