@@ -57,7 +57,7 @@ fun BiodataScreen() {
                 .fillMaxSize()
                 .padding(innerPadding)
         ) {
-            // 1. Bagian Background Gambar bachira.jpg di atas
+            // 1. Bagian Background Gambar bachira.jpg di atas (penambahan gambar)
             Image(
                 painter = painterResource(id = R.drawable.bachira),
                 contentDescription = null,
