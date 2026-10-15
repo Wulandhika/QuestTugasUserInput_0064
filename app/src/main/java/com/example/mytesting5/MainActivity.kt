@@ -203,7 +203,7 @@ fun BiodataScreen() {
 
                     Spacer(modifier = Modifier.height(24.dp))
 
-                    // Tombol Proceed
+                    // Tombol Proceed tekan
                     Button(
                         onClick = { /* Aksi ketika tombol diklik */ },
                         modifier = Modifier
